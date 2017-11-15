@@ -1,0 +1,680 @@
+1509599684048	geckodriver	INFO	geckodriver 0.18.0
+1509599684062	geckodriver	INFO	Listening on 127.0.0.1:7742
+1509599686253	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509599690879	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509599693836	Marionette	INFO	Enabled via --marionette
+[Parent 6564] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5632] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509599719264	Marionette	INFO	Listening on port 7751
+1509599719787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509599719988	Marionette	DEBUG	Register listener.js for window 4294967297
+1509599721010	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509599721601	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509599721602	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509599726812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509599729892	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509599731224	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509599731580	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509599731582	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509599731949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509599732396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509599738175	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+[Parent 6564] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9544] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6564] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509600113279	geckodriver	INFO	geckodriver 0.18.0
+1509600113293	geckodriver	INFO	Listening on 127.0.0.1:8235
+1509600115362	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509600116690	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509600117815	Marionette	INFO	Enabled via --marionette
+[Child 4532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509600123420	Marionette	INFO	Listening on port 8242
+1509600123748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509600123819	Marionette	DEBUG	Register listener.js for window 4294967297
+1509600123997	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509600124523	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509600124523	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509600126919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509600127366	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509600128351	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509600129465	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509600129466	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509600130463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509600132981	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=&ie=utf8&initiative_id=tbindexz_20170306"
+[Parent 7172] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode382
+[Parent 7172] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509600571867	geckodriver	INFO	geckodriver 0.18.0
+1509600571886	geckodriver	INFO	Listening on 127.0.0.1:8740
+1509600573987	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509600576224	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509600577984	Marionette	INFO	Enabled via --marionette
+[Child 9788] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9788] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509600584714	Marionette	INFO	Listening on port 8749
+1509600585717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509600585799	Marionette	DEBUG	Register listener.js for window 4294967297
+1509600585859	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509600586207	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509600586208	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509600587907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509600590316	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509600590916	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509600591446	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509600591447	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509600591603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509600591603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1509600592034	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509600595346	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTrans1509600737987	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509600738574	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509600739626	Marionette	INFO	Enabled via --marionette
+[Child 18264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509600743369	Marionette	INFO	Listening on port 9013
+1509600743828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509600743900	Marionette	DEBUG	Register listener.js for window 4294967297
+1509600743940	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509600744203	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509600744204	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509600745930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509600748148	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509600750028	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509600750514	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509600750520	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509600750786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509600751143	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509600755464	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTrans1509600868865	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509600869333	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509600870368	Marionette	INFO	Enabled via --marionette
+1509600874190	Marionette	INFO	Listening on port 9251
+1509600874628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509600874696	Marionette	DEBUG	Register listener.js for window 4294967297
+1509600874732	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509600874965	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509600874966	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509600876508	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509600877783	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509600878318	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509600878703	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509600878706	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509600878871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509600879200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509600883007	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+1509600884232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 10276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10276] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+E_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509601110797	Marionette	INFO	Enabled via --marionette
+[Child 3192] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3192] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509601115881	Marionette	INFO	Listening on port 9571
+1509601116535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509601116624	Marionette	DEBUG	Register listener.js for window 4294967297
+1509601116739	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509601117000	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509601117001	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509601121086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509601123142	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509601123982	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509601124303	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509601124304	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509601124456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509601124830	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509601128244	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+1509601129152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601131282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601133704	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601136030	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601138054	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 12876] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509601140749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601142834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601439271	geckodriver	INFO	geckodriver 0.18.0
+1509601439295	geckodriver	INFO	Listening on 127.0.0.1:10002
+1509601441241	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509601442729	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509601443921	Marionette	INFO	Enabled via --marionette
+[Parent 18188] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15956] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15956] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509601447970	Marionette	INFO	Listening on port 10012
+1509601448621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509601448690	Marionette	DEBUG	Register listener.js for window 4294967297
+1509601448713	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509601448980	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509601448981	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509601450562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509601451745	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509601452177	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509601452605	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509601452606	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509601452853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509601453136	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509601456791	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+1509601457683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601459751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601461904	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601463922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601465847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601468411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601470615	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601472850	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601487545	geckodriver	INFO	geckodriver 0.18.0
+1509601487557	geckodriver	INFO	Listening on 127.0.0.1:10253
+1509601489331	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509601490342	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509601491523	Marionette	INFO	Enabled via --marionette
+[Child 6756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509601495538	Marionette	INFO	Listening on port 10259
+1509601495611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509601495722	Marionette	DEBUG	Register listener.js for window 4294967297
+1509601495804	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509601496072	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509601496073	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509601497714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509601499369	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509601500544	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509601501004	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509601501006	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+[Parent 12180] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509601501165	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509601501488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509601504947	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+1509601505910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509601508397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509602489731	geckodriver	INFO	geckodriver 0.18.0
+1509602489750	geckodriver	INFO	Listening on 127.0.0.1:11198
+1509602491640	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509602492896	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509602493983	Marionette	INFO	Enabled via --marionette
+1509602508677	Marionette	INFO	Listening on port 11206
+1509602509721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509602509841	Marionette	DEBUG	Register listener.js for window 4294967297
+1509602510014	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509602510407	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509602510407	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509602513354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509602515384	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509602516944	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509602517279	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509602517284	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509602517673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509602518077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509602521301	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+1509602522454	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509602524948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509602527024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509602529144	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509602532017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509602534299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509602536270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509602538878	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509602541304	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509602570444	geckodriver	INFO	geckodriver 0.18.0
+1509602570483	geckodriver	INFO	Listening on 127.0.0.1:11509
+1509602572766	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509602574451	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509602575882	Marionette	INFO	Enabled via --marionette
+[Child 17316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/extension-process-script.js, line 339: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+1509602593944	Marionette	INFO	Listening on port 11518
+1509602594978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509602595056	Marionette	DEBUG	Register listener.js for window 4294967297
+1509602595110	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509602595466	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509602595467	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509602597181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509602599411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509602600022	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509602600438	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509602600439	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509602600588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509602600969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509602604266	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+[Parent 12132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12660] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12660] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8792] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8792] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 16432] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509602696449	geckodriver	INFO	geckodriver 0.18.0
+1509602696482	geckodriver	INFO	Listening on 127.0.0.1:11752
+1509602698219	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509602699219	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509602700438	Marionette	INFO	Enabled via --marionette
+[Child 4448] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4448] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509602704599	Marionette	INFO	Listening on port 11760
+1509602705642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509602705730	Marionette	DEBUG	Register listener.js for window 4294967297
+1509602705776	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509602706043	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509602706043	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509602708002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509602709873	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509602710765	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509602711124	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509602711129	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509602711491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509602711933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509602715456	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+[Parent 7444] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win1509602752202	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509602753177	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509602754385	Marionette	INFO	Enabled via --marionette
+[Child 7428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7428] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509602758016	Marionette	INFO	Listening on port 11947
+1509602758521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509602758600	Marionette	DEBUG	Register listener.js for window 4294967297
+1509602758648	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509602758897	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509602758898	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509602760366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509602761689	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509602762220	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509602762510	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509602762514	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509602762680	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509602763145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509602766556	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+[Child 16664] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16664] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l1509602801070	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509602802456	Marionette	INFO	Enabled via --marionette
+[Child 8100] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8100] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509602807028	Marionette	INFO	Listening on port 12119
+1509602807152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509602807308	Marionette	DEBUG	Register listener.js for window 4294967297
+1509602807442	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509602808825	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509602808827	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509602811350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509602813391	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509602814610	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509602815001	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509602815003	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509602815534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509602815995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509602821011	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+1509602824474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 15984] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15984] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13412] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13412] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15984] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1509603111280	geckodriver	INFO	geckodriver 0.18.0
+1509603111301	geckodriver	INFO	Listening on 127.0.0.1:12475
+1509603113004	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509603115704	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603116823	Marionette	INFO	Enabled via --marionette
+1509603122656	Marionette	INFO	Listening on port 12484
+1509603123024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603123122	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603123166	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603123441	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603123442	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603127339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509603130316	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509603131896	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509603132399	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509603132402	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509603132716	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509603133050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509603139218	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+1509603141725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 6616] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6616] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400F0,name=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400F1,name=PContent::Msg_AccumulateChildKeyedHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400F5,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6616] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 676: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:337:29
+write@resource:///modules/sessionstore/SessionFile.jsm:72:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:343:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:281:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:327:5
+runDelayed/this._timeoutID<@resource:///modules/sessionstore/SessionSaver.jsm:184:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 676: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+nette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509603550877	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509603551206	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509603551212	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509603551448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509603551856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509603555468	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+[Parent 7648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10460] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10460] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509603844711	geckodriver	INFO	geckodriver 0.18.0
+1509603844727	geckodriver	INFO	Listening on 127.0.0.1:13312
+1509603846382	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509603848278	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603849748	Marionette	INFO	Enabled via --marionette
+[Child 14288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509603864733	Marionette	INFO	Listening on port 13320
+1509603864853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603864985	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603865346	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603876537	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603876557	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603876557	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603877159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=https%3A//www.taobao.com/&c=UTF-8&f=regular&d=Firefox%20%E6%97%A0%E6%B3%95%E6%89%BE%E5%88%B0%20www.taobao.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82"
+[Parent 5136] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10600] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509603939531	geckodriver	INFO	geckodriver 0.18.0
+1509603939544	geckodriver	INFO	Listening on 127.0.0.1:13459
+1509603941674	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509603942734	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509603943924	Marionette	INFO	Enabled via --marionette
+[Parent 11752] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12536] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509603949212	Marionette	INFO	Listening on port 13467
+1509603949686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509603949808	Marionette	DEBUG	Register listener.js for window 4294967297
+1509603949893	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509603950201	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509603950201	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509603953081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509603954609	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509603955797	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509603956205	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509603956206	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509603957066	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509603957711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509603961584	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+1509603963166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603966001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603970423	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603972798	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603975129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603977309	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603979989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603983084	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603985696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603988370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603991562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603994028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603996418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509603999153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604002508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604005264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604007847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604010378	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604013326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604015706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604019012	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604022181	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604024846	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604028024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604030838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604033761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604036431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604039032	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604042426	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604045429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604048177	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604051103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604053731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604057316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604060785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604063664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604067091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604072042	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604074818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604077457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604080419	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604082888	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604085713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604088325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604090995	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604093522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604096191	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604098706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604101480	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604104297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604107167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604109737	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604112404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604116187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604120458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604124061	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604127578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604132127	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604153838	geckodriver	INFO	geckodriver 0.18.0
+1509604153871	geckodriver	INFO	Listening on 127.0.0.1:14517
+1509604155436	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509604159290	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509604160992	Marionette	INFO	Enabled via --marionette
+1509604201849	Marionette	INFO	Listening on port 14524
+1509604202908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509604203044	Marionette	DEBUG	Register listener.js for window 4294967297
+1509604203131	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509604203346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509604203346	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509604206522	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1509604208535	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1509604209709	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1509604210158	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1509604210160	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1509604210344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1509604210806	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1509604213926	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170306"
+1509604215167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604218312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604220790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604223657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604225788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604228455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509604231028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470001,name=PLayerTransaction::Msg_InitReadLocks) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470016,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x730003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x730003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x730003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x730003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47001F,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x200016,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470016,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x730003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x730003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x730003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47001F,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x200016,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
